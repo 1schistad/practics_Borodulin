@@ -1,0 +1,15 @@
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.csproj.AssemblyReference.cache
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.GeneratedMSBuildEditorConfig.editorconfig
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.AssemblyInfoInputs.cache
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.AssemblyInfo.cs
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.csproj.CoreCompileInputs.cache
+E:\политех\Мерцалов\pr2\bin\Debug\net6.0\pr2.exe
+E:\политех\Мерцалов\pr2\bin\Debug\net6.0\pr2.deps.json
+E:\политех\Мерцалов\pr2\bin\Debug\net6.0\pr2.runtimeconfig.json
+E:\политех\Мерцалов\pr2\bin\Debug\net6.0\pr2.dll
+E:\политех\Мерцалов\pr2\bin\Debug\net6.0\pr2.pdb
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.dll
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\refint\pr2.dll
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.pdb
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\pr2.genruntimeconfig.cache
+E:\политех\Мерцалов\pr2\obj\Debug\net6.0\ref\pr2.dll
